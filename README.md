@@ -12,7 +12,7 @@ This project consists of four Maven projects: `question-service`, `quiz-service`
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/atuldas/quizapp-microservice-poc.git)
     cd <repository-directory>
     ```
 
